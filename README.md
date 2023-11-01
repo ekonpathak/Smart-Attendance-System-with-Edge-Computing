@@ -15,5 +15,11 @@ Prof. Nisheeth shrivastava
 
 
  ![Image 1](images/WhatsApp Image 2023-11-02 at 05.08.41.jpeg)
-![Image 2](images/WhatsApp Image 2023-11-02 at 05.08.50.jpeg)
+
+
+
+
+
+ 
+ ![Image 2] (images/WhatsApp Image 2023-11-02 at 05.08.50.jpeg)
 
