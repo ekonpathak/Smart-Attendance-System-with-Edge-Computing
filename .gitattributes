@@ -2,3 +2,4 @@ Arcface_Recognition.apk filter=lfs diff=lfs merge=lfs -text
 ArcFace_pro/* filter=lfs diff=lfs merge=lfs -text
 Attendance_pro filter=lfs diff=lfs merge=lfs -text
 Attendance_pro/* filter=lfs diff=lfs merge=lfs -text
+Attendance_pro.zip filter=lfs diff=lfs merge=lfs -text
