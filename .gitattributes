@@ -1,3 +1,0 @@
-Arcface_Recognition.apk filter=lfs diff=lfs merge=lfs -text
-Arcface_Recognition.apk.zip filter=lfs diff=lfs merge=lfs -text
-Smart-Attendance/* filter=lfs diff=lfs merge=lfs -text
