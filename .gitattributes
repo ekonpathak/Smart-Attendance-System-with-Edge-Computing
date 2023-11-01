@@ -1,1 +1,2 @@
 Arcface_Recognition.apk filter=lfs diff=lfs merge=lfs -text
+ArcFace_pro/* filter=lfs diff=lfs merge=lfs -text
