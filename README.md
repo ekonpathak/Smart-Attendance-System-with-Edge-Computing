@@ -14,12 +14,12 @@ Prof. Nisheeth shrivastava
 
 
 
- ![Image1](images/WhatsAppImage2023-11-02at05.08.41.jpeg)
+ ![Image1](images/img1.jpeg)
 
 
 
 
 
  
- ![Image 2] (images/WhatsApp Image 2023-11-02 at 05.08.50.jpeg)
+ ![Image2](images/img2.jpeg)
 
